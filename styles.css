@@ -1,0 +1,41 @@
+.nav {
+    background-color: DarkSlateBlue;
+    color: white;
+}
+
+.sponsors {float: left;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url("chard_42.jpg");
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: DarkSlateBlue;
+    text-align: left;
+    font-family: 'Delius', cursive;}
+
+.heading {color: DarkSlateBlue;
+    font-family: 'Delius', cursive; }
+
+.subheading {color: DarkSlateBlue;
+    font-family: 'Delius', cursive; }
+
+.historicalImage {width: 250px;
+}
+
+.wineAd {display: block;
+  max-width:2000px;
+  max-height:250px;
+  width: auto;
+  height: auto;
+}
+
+.weatherCard {
+  width: 175px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  float: left;
+}
